@@ -1,5 +1,5 @@
 const listaCursos = [
-    new Curso('Desarrollo web', 'Ingeniero fredy', '20 horas', 'html, css, javascript', '01/23/2022', 200000),
+    new Curso('Desarrollo web', 'Anderson Marin', '20 horas', 'html, css, javascript', '01/23/2022', 200000),
     //new Curso('Desarrollo de aplicaciones moviles', 'Andres Corredor', '50 horas', 'Andrid studio, java, kotlin', '12/28/2021', 3690000),
 ];
 
